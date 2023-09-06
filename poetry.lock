@@ -55,7 +55,7 @@ numpy = "1.24"
 type = "git"
 url = "https://github.com/abefrandsen/shared_dependency.git"
 reference = "HEAD"
-resolved_reference = "f413c90d56a02a184979865c523e4edc7f675772"
+resolved_reference = "7bcd4ae7eb134216b3710152bb750451bbdbc492"
 
 [metadata]
 lock-version = "2.0"

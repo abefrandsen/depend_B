@@ -8,6 +8,7 @@ packages = [{include = "depend_b"}]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
+shared-dependency = {git = "https://github.com/abefrandsen/shared_dependency.git"}
 
 
 [build-system]
